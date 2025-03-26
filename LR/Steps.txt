@@ -1,0 +1,4 @@
+1. Divide the features based on dependent and independent features.
+2. Train test split of the dataset
+3. Standardise the dataset
+4. Train the model using SLRegression
