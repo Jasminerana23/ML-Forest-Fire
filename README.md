@@ -75,9 +75,9 @@ To predict the Fire Weather Index:
 ---
 
 ## Author
-- **Krishna Chauhan**  
-  Email: krishna.chauhan.ug22@nsut.ac.in  
-  GitHub: [KrishnaChauhan7](https://github.com/KrishnaChauhan7)
+- **Jasmine**  
+  Email: jasmine.ug23@nsut.ac.in  
+  GitHub: [Jasminerana23](https://github.com/Jasminerana23)
 
 ---
 
